@@ -1,0 +1,12 @@
+body {
+  background-color:green
+}
+p {
+  color:blue
+}
+.destacado{
+  font-family:"Calibri";
+  font-style:italic;
+  font-size:18px;
+  color:white   
+}
